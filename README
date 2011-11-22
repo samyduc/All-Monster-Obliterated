@@ -1,0 +1,21 @@
+All Monster Obliterated
+=======================
+
+Description
+-----------
+
+C++ 3D game engine server side using Raknet for network layer.
+
+The code of 'Duke is Fast' is forked from the client base code of this project. 
+
+Author
+------
+
+Samy Duc aka nobunaga.duc@gmail.com
+
+Additional credits
+------------------
+
+For designing part of the engine with some C++ awsomeness, plus all the client side.
+
+Benjamin Rimet aka benjamin.rimet@gmail.com
